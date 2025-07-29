@@ -1,4 +1,5 @@
 # 💕 Love Lord Simulator App
+[NOTE : This application is created purely for **humor and entertainment**.]
 The **Love Lord Simulator** is a interactive game designed to bring laughter and fun to your workplace! Featuring the legendary charmer "Lord Lashan," this app gamifies the art of romance with engaging animations, interactive elements, and playful humor.
 - Experience the ultimate romance simulation with dynamic animations
 - Interactive charm deployment system with funny pickup lines  
